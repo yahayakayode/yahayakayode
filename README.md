@@ -52,7 +52,7 @@ I’m passionate about using AI and data science to solve real-world problems, e
  ### 🔬Research Interests <br>
 - Human-Centered AI & Applied Machine Learning<br>
 - Ethical AI for underserved populations<br>
-- AI solutions in agriculture and public health <br>
+- AI solutions in agriculture, education and public health <br>
 
 ---
 
