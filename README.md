@@ -16,7 +16,11 @@ I’m passionate about using AI and data science to solve real-world problems, e
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+#### 🧠 Large Language Models & GenAI
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![Gemma](https://img.shields.io/badge/Gemma-2B-blue?style=flat&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-%230073e6?style=flat&logo=openai&logoColor=white)
 
 #### 💻 Programming & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
