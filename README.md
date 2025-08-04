@@ -54,10 +54,7 @@ I’m passionate about using AI and data science to solve real-world problems, e
 - Ethical AI for underserved populations<br>
 - AI solutions in agriculture, education and public health <br>
 
-### 📚 Currently Learning
-
-- LangChain and vector databases (e.g., FAISS) for building advanced LLM pipelines  
-- GitHub Actions for automating ML workflows  
+### 📚 Currently Learning 
 - Advanced Prompt Engineering techniques for fine-tuned LLM performance
 
 ### 🤝 Let's Collaborate!
