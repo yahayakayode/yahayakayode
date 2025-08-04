@@ -1,7 +1,6 @@
 Hi, I'm Kayode 👋  <br>
 I’m passionate about using AI and data science to solve real-world problems, especially in agriculture, education, and healthcare. I work at the intersection of machine learning, responsible AI, and digital innovation for social good—focusing on impact in low-resource communities. <br>
 
-🛠 **Tools & Technologies:** <br>
 ### 🛠  Tools & Technologies
 
 #### 📊 Data Analysis & Visualization
