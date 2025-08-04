@@ -54,12 +54,17 @@ I’m passionate about using AI and data science to solve real-world problems, e
 - Ethical AI for underserved populations<br>
 - AI solutions in agriculture and public health <br>
 
- ### 🏆 Awards & Scholarships <br>
-- Kaggle-Google Career Development Scholarship <br>
-- AWS Machine Learning Scholarship <br>
-- Mastercard Foundation Hackathon Award <br>
-- FAO Farm Data Management Training <br>
-- CodeFest and Ag4Dev Hackathon Awards <br>
+---
+
+### 🤝 Let's Collaborate!
+
+I'm always open to meaningful collaborations in AI for social good, data-driven projects in agriculture, education, and health, or innovative applications of machine learning in low-resource settings.
+
+🚀 Got a project idea or want to connect?  
+📬 [connect with me on LinkedIn](https://www.linkedin.com/in/yahayamk)
+
+Let’s build something impactful together!
+
 <!---
 yahayakayode/yahayakayode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
