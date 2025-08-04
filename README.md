@@ -34,20 +34,20 @@ I’m passionate about using AI and data science to solve real-world problems, e
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-#### 🌐 Tools & DevOps
+#### 💻 Development Environments & Editors
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+
+#### 🔗 Version Control & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![ODK](https://img.shields.io/badge/ODK-006400?style=flat&logo=data&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
-#### ☁️ Deployment & Hosting
+#### 🚀 Hosting & Deployment
 ![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?style=flat&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-
-#### 🔗 Collaboration & Workflow
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
  ### 🔬Research Interests <br>
 - Human-Centered AI & Applied Machine Learning<br>
